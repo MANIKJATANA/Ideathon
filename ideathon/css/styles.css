@@ -1,0 +1,20 @@
+body{
+    background-color: #FFF9B0;
+}
+h1{
+    font-family: 'Sacramento', sans-serif;
+}
+.topicon{
+    height: 50px;
+    width: 50px;
+}
+.navbar-brand{
+    font-family: 'Ultra', serif;
+}
+.top-container{
+    text-align: center;
+}
+.gif{
+    height: 400px;
+    width: 250px;
+}
